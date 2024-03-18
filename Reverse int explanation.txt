@@ -1,0 +1,38 @@
+N=4732
+Reverse = 0
+
+while(N>0) maka:
+Reverse = Reverse * 10+(N%10)
+N = N/10
+
+[Pengerjaan]
+1:
+Reverse(masih 0) = 0*10 + 2
+N=473
+apakah N masih lebih besar dibanding 0?
+ya, maka lanjut
+
+2:
+(Reverse = 2)
+Reverse = 2*10 + 3
+N=47
+apakah N masih lebih besar dibanding 0?
+ya, maka lanjut
+
+3:
+(Reverse = 23)
+Reverse = 23*10 + 7
+N=4
+apakah N masih lebih besar dibanding 0?
+ya, maka lanjut
+
+3:
+(Reverse = 237)
+Reverse = 237*10 + 4
+N=0
+apakah N masih lebih besar dibanding 0?
+tidak, maka stop
+
+Hasil Final:
+Reverse = 2374(yang merupakan kebalikan dari N)
+N = 0(makanya whilenya stop)
