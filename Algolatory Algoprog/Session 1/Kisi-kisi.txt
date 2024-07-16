@@ -1,0 +1,4 @@
+1. Looping selection [easy]
+2. String manipulation [medium]
+3. Array selection looping [medium]
+4. Array selection looping [medium]
