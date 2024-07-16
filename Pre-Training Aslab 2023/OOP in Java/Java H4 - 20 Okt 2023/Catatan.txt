@@ -1,0 +1,9 @@
+Java H4 - 20 Okt 2023
+
+Topic:
+1.Constructor dalam sebuah class hanya cukup 1
+2.Super Class atau Subset
+3.Composition  adalah inheritance subclass adalah miliki dari superclass, contoh kita sebagai manusia memiliki kaki dan tangan(kaki tangan dianggap sebagai composition) sebagai bagian dari tubuh kita, kalau ada yang hilang maka menjadi tidak lengkap.
+4.Agregation = Bukan dari bagian animal sendiri, hubungan sifat bukan bagian 
+5.Static hanya memiliki 1 atribut
+6.Final

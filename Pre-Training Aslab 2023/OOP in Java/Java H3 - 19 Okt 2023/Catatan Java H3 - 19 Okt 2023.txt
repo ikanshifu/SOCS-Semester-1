@@ -1,0 +1,21 @@
+Java H3 - 19 Okt 2023
+
+Topic:
+1.OOP -> Object Oriented Programmming
+Membagi function menjadi beberapa bagian/module/class/. Contohnya seperti sebuah rumah, dimana rumah dibagi menjadi beberapa bagian, sehingga ketika kita ingin merobmbak atau mengubah sesuaitu , kita tidak mperlu mengubah semuanya. Perubahan pada suatu object tidak akan memengaruhi function yang lainnya.
+
+2.Class Definition dan Declaration
+-> Blueprint
+
+3.Package
+-> berfungsi sebagai sebuah folder
+
+4.Constructor
+Sebuah alat untuk membuat alatnya, ibaratnya sebuah pabrik
+
+5.Deconstructor
+Sebuah alat untuk clear console, bisa dengan mengdeclare sesuatu menjadi null ataupun membuat function sebagai deconstructor
+
+6.Encapsulation(hanya bisa diakses oleh access modifier yaitu Default, Private, Protected, Public)
+Ibaratnya, berfungsi sebagai sebuah case pada HP, melindungi dari serangan atau perubahan.
+
